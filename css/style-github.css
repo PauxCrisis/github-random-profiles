@@ -1,0 +1,13 @@
+.square-avatar{
+    border-radius: 14px;
+    transition: border-radius 0.5s linear;
+}
+.circle-avatar{
+    border-radius: 50%;
+    transition: border-radius 0.5s linear;
+}
+#avatar{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
